@@ -1,0 +1,123 @@
+﻿  collision.cpp
+C:\Users\nurie\source\repos\OOP\Point.h(149,1): error C2504: BigFishWE: не определен базовый класс
+  main.cpp
+C:\Users\nurie\source\repos\OOP\Point.h(149,1): error C2504: BigFishWE: не определен базовый класс
+C:\Users\nurie\source\repos\OOP\main.cpp(28,60): error C2440: инициализация: невозможно преобразовать "DamagedBigFishWE *" в "PlayerObject *"
+C:\Users\nurie\source\repos\OOP\main.cpp(28,60): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\nurie\source\repos\OOP\main.cpp(29,54): error C2440: инициализация: невозможно преобразовать "DeadBigFishWE *" в "PlayerObject *"
+C:\Users\nurie\source\repos\OOP\main.cpp(29,54): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+  Point.cpp
+C:\Users\nurie\source\repos\OOP\Point.h(149,1): error C2504: BigFishWE: не определен базовый класс
+C:\Users\nurie\source\repos\OOP\Point.cpp(622,94): error C2614: DamagedBigFishWE: недопустимая инициализация члена: "BigFishWE" не является базовым классом или членом
+C:\Users\nurie\source\repos\OOP\Point.cpp(624,2): error C2065: id: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(633,2): error C2065: Visible: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,28): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,32): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,41): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,45): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,54): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,58): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,2): error C2660: Ellipse: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4001,24): message : см. объявление "Ellipse"
+C:\Users\nurie\source\repos\OOP\Point.cpp(637,2): message : при попытке сопоставить список аргументов "(HDC)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(639,7): error C2065: Side: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(641,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(641,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(641,34): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(641,38): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(641,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(641,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(642,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(642,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(642,38): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(642,42): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(642,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(642,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(643,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(643,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(643,38): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(643,42): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(643,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(643,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(644,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(644,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(644,34): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(644,38): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(644,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(644,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(646,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(646,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(646,30): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(647,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(647,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(647,36): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(647,40): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(647,3): error C2660: LineTo: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4544,24): message : см. объявление "LineTo"
+C:\Users\nurie\source\repos\OOP\Point.cpp(647,3): message : при попытке сопоставить список аргументов "(HDC)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(648,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(648,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(648,36): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(648,40): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(648,3): error C2660: LineTo: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4544,24): message : см. объявление "LineTo"
+C:\Users\nurie\source\repos\OOP\Point.cpp(648,3): message : при попытке сопоставить список аргументов "(HDC)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(649,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(649,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(649,28): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(653,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(653,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(653,34): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(653,38): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(653,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(653,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(654,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(654,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(654,38): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(654,42): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(654,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(654,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(655,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(655,20): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(655,37): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(655,41): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(655,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(655,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(656,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(656,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(656,34): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(656,38): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(656,3): error C2660: SetPixel: функция не принимает 2 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4621,28): message : см. объявление "SetPixel"
+C:\Users\nurie\source\repos\OOP\Point.cpp(656,3): message : при попытке сопоставить список аргументов "(HDC, DWORD)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(658,17): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(658,21): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(658,30): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(659,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(659,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(659,36): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(659,40): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(659,3): error C2660: LineTo: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4544,24): message : см. объявление "LineTo"
+C:\Users\nurie\source\repos\OOP\Point.cpp(659,3): message : при попытке сопоставить список аргументов "(HDC)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(660,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(660,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(660,36): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(660,40): error C2065: RadiusY: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(660,3): error C2660: LineTo: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(4544,24): message : см. объявление "LineTo"
+C:\Users\nurie\source\repos\OOP\Point.cpp(660,3): message : при попытке сопоставить список аргументов "(HDC)"
+C:\Users\nurie\source\repos\OOP\Point.cpp(661,15): error C2065: X: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(661,19): error C2065: RadiusX: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(661,28): error C2065: Y: необъявленный идентификатор
+C:\Users\nurie\source\repos\OOP\Point.cpp(673,2): error C2065: id: необъявленный идентификатор
+  Создание кода...
